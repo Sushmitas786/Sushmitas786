@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collabration in projects
 - 📫 How to reach me -> singhsushmita6743@gmail.com
 - 😄 userid @Sushmitas786
-- ⚡ Interseting fact: I beleive in myself
+- ⚡ Interseting fact: I never give up
 
 <!---
 Sushmitas786/Sushmitas786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
