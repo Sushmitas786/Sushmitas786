@@ -1,5 +1,5 @@
 b- 👋 Hi, I’m Sushmita Singh
-- 👀 I’m interested in Machine Learning, Python Programming, Data Analytic, DBMS, SQL and Frontend.
+- 👀 I am a Graphic Designer and Frontend Designer.
 - 🌱 Recent B.Tech graduate in computer science and engineering
 - 🖇️ I'm also in LinkedIn (https://www.linkedin.com/in/sushmita-singh0604) have good connection.
 - 💞️ I’m looking to collabration in projects
