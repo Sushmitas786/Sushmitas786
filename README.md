@@ -1,6 +1,6 @@
 
 
-Welcome to my profile! I'm Sushmita Singh, a versatile  professional:
+Welcome to my profile!
 
 I'm Sushmita Singh, a versatile professional with expertise in:
 
