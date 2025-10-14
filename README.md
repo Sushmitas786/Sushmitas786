@@ -35,12 +35,6 @@ Graphic Designing 🎨 • UI/UX Designing 🧠 • Canva 🖌️ • Photoshop 
 | CSS 🎨          |               | Firebase 🔥  | Java ☕         | React Router v7 🔗      | **Figma 🎨 • Canva 🖌️ • Photoshop 🧷 • Illustrator 🖋️**     |
 | Tailwind CSS 🌈 |               | IndexDB      | DSA (Basic) 🔢 |                         | **Framer Motion 🎞️ • Adobe XD 🧠 • Docker 🐳 *(Learning)* ** |
 
-📊 GitHub Overview
-
-🚀 Contributions: 100+ commits this year
-🌟 Projects: MERN apps, portfolio designs, and experimental UI concepts
-📈 Focus: Performance, accessibility, and user-centric design
-
 🌱 Currently Exploring
 
 🧭Graphic Design & Advanced UI/UX principles — expanding my expertise to build SEO-friendly, highly optimized, and aesthetically balanced web experiences.
