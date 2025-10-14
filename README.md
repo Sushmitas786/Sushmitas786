@@ -1,15 +1,50 @@
+👋 Hey, I'm SUSHMITA SINGH
 
+💻 Web Developer | Design Enthusiast | Problem Solver
 
-Welcome to my profile!
+I’m passionate about crafting visually stunning and high-performing web applications that combine clean code with creative design.
+I love turning complex ideas into intuitive digital experiences using modern technologies and thoughtful UI/UX principles.
 
-I'm Sushmita Singh, a versatile professional with expertise in:
+💼 Experience
 
-- 🌐 Full Stack Web Development
-- 🎨 UI/UX Design
-- 📚 Engineering
-- 💼 Freelancing
-- 💡 Problem Solving
-- ⭐ 5-Star JAVA Programming
-- 🗣️ Skilled Public Speaking
+| Role                             | Organization           | Duration            | Description                                                                      |
+| -------------------------------- | ---------------------- | ------------------- | -------------------------------------------------------------------------------- |
+| 💻 **Graphic Designer**       | **Vagmi Infotech**       | Nov 2024 – Present  | Building scalable, modular web solutions using MERN stack & modern UI frameworks |
+| 🎨 **Associate Graphic Designer** | **Tweek and Turn**   | Sept 2024 – Nov 2024 |  Crafting clean, creative visuals & digital assets         |
+| 🌐 **Web Development Intern**    | **Freelance Project** | Jan 2024 – Sep 2024 | Developed responsive, accessible UIs using HTML, CSS, and JavaScript             |
 
-Feel free to connect via email at "singhsushmita6743@gmail.com." Let's collaborate and create something amazing! 😊🚀
+🎓 Education
+
+| Degree                           | Institution                              | Year        | Grade    |
+| -------------------------------- | ---------------------------------------- | ----------- | -------- |
+| 🎓 **B.Tech – Computer Science** |Sagar Institute of Science, Technology    | 2020 – 2024 | 8.8 CGPA |
+| 🧪 **12th (Science)**            | Bihar School Examination Board           | 2019 – 2020 | 56%      |
+
+🧩 Certifications
+
+Graphic Designing 🎨 • UI/UX Designing 🧠 • Canva 🖌️ • Photoshop 🧷 • HTML & CSS 🧱 • JavaScript ⚡ • Java ☕ • Problem Solving 🧩
+
+⚙️ Tech Stack
+
+| **Frontend**    | **Backend**   | **Database** | **Languages**  | **Frameworks**          | **Tools / Design**                                            |
+| --------------- | ------------- | ------------ | -------------- | ----------------------- | ------------------------------------------------------------- |
+| React.js ⚛️     | Node.js 🟢    | MongoDB 🍃   | JavaScript ⚡   | Remix 🌀                | Git 🧰                                                        |
+| HTML5 🧱        | Express.js 🚀 | SQL 🧮       | C++ 💡         | Next.js 🧭 *(Learning)* | GitHub 🧑‍💻                                                  |
+| CSS 🎨          |               | Firebase 🔥  | Java ☕         | React Router v7 🔗      | **Figma 🎨 • Canva 🖌️ • Photoshop 🧷 • Illustrator 🖋️**     |
+| Tailwind CSS 🌈 |               | IndexDB      | DSA (Basic) 🔢 |                         | **Framer Motion 🎞️ • Adobe XD 🧠 • Docker 🐳 *(Learning)* ** |
+
+📊 GitHub Overview
+
+🚀 Contributions: 100+ commits this year
+🌟 Projects: MERN apps, portfolio designs, and experimental UI concepts
+📈 Focus: Performance, accessibility, and user-centric design
+
+🌱 Currently Exploring
+
+🧭Graphic Design & Advanced UI/UX principles — expanding my expertise to build SEO-friendly, highly optimized, and aesthetically balanced web experiences.
+
+📬 Connect With Me
+
+💼 LinkedIn: [linkedin.com/in/sushmita-singh0604]
+🐙 GitHub: [github.com/Sushmitas786]
+✉️ Email: [singhsushmita6743@gmail.com]
