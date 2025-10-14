@@ -47,6 +47,6 @@ Graphic Designing 🎨 • UI/UX Designing 🧠 • Canva 🖌️ • Photoshop 
 
 📬 Connect With Me
 
-💼 LinkedIn: [linkedin.com/in/sushmita-singh0604]
-🐙 GitHub: [github.com/Sushmitas786]
+💼 LinkedIn: [(https://www.linkedin.com/in/sushmita-singh0604/)]
+🐙 GitHub: [(https://github.com/Sushmitas786/)]
 ✉️ Email: [singhsushmita6743@gmail.com]
