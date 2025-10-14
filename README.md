@@ -1,9 +1,11 @@
-👋 Hey, I'm SUSHMITA SINGH
+<div align="center">
+👋 𝐇𝐞𝐲, 𝐈'𝐦 𝐒𝐔𝐒𝐇𝐌𝐈𝐓𝐀 𝐒𝐈𝐍𝐆𝐇
 
 💻 Web Developer | Design Enthusiast | Problem Solver
 
 I’m passionate about crafting visually stunning and high-performing web applications that combine clean code with creative design.
 I love turning complex ideas into intuitive digital experiences using modern technologies and thoughtful UI/UX principles.
+</div>
 
 💼 Experience
 
