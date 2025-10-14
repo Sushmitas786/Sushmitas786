@@ -47,6 +47,18 @@ Graphic Designing 🎨 • UI/UX Designing 🧠 • Canva 🖌️ • Photoshop 
 
 📬 Connect With Me
 
-💼 LinkedIn: [(https://www.linkedin.com/in/sushmita-singh0604/)]
-🐙 GitHub: [(https://github.com/Sushmitas786/)]
-✉️ Email: [singhsushmita6743@gmail.com]
+<h3 align="left">📬 Connect With Me</h3>
+
+<p align="left">
+  <a href="mailto: https://www.linkedin.com/in/sushmita-singh0604" target="_blank">
+    <img src="https://img.shields.io/badge/Email-singhsushmita6743@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sushmita-singh0604" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sushmita%20Singh-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sushmitas786" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Sushmitas786-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+> “Code with clarity, design with purpose, and build with passion.”
