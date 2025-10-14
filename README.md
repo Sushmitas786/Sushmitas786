@@ -39,8 +39,6 @@ Graphic Designing 🎨 • UI/UX Designing 🧠 • Canva 🖌️ • Photoshop 
 
 🧭Graphic Design & Advanced UI/UX principles — expanding my expertise to build SEO-friendly, highly optimized, and aesthetically balanced web experiences.
 
-📬 Connect With Me
-
 <h3 align="left">📬 Connect With Me</h3>
 
 <p align="left">
