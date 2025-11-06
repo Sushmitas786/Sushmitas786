@@ -11,8 +11,8 @@ I love turning complex ideas into intuitive digital experiences using modern tec
 
 | Role                             | Organization           | Duration            | Description                                                                      |
 | -------------------------------- | ---------------------- | ------------------- | -------------------------------------------------------------------------------- |
-| 💻 **Graphic Designer**       | **Vagmi Infotech**       | Nov 2024 – Present  | Building scalable, modular web solutions using MERN stack & modern UI frameworks |
-| 🎨 **Associate Graphic Designer** | **Tweek and Turn**   | Sept 2024 – Nov 2024 |  Crafting clean, creative visuals & digital assets         |
+| 💻 **Graphic Designer**       | **Vagmi Infotech**       | Nov 2024 – Present  | Designing Posters, Reels & Innovation, modular web solutions  |
+| 🎨 **Associate Graphic Designer** | **Tweek and Turn**   | Oct 2024 – Nov 2024 |  Crafting clean, creative visuals & digital assets         |
 | 🌐 **Web Development Intern**    | **Freelance Project** | Jan 2024 – Sep 2024 | Developed responsive, accessible UIs using HTML, CSS, and JavaScript             |
 
 🎓 Education
@@ -20,7 +20,7 @@ I love turning complex ideas into intuitive digital experiences using modern tec
 | Degree                           | Institution                              | Year        | Grade    |
 | -------------------------------- | ---------------------------------------- | ----------- | -------- |
 | 🎓 **B.Tech – Computer Science** |Sagar Institute of Science, Technology    | 2020 – 2024 | 8.8 CGPA |
-| 🧪 **12th (Science)**            | Bihar School Examination Board           | 2019 – 2020 | 56%      |
+| 🧪 **12th (Science)**            |State Board         | 2019 – 2020 | 56%      |
 
 🧩 Certifications
 
